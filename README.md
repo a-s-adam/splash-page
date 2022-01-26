@@ -1,2 +1,2 @@
 # splash-page
-# https://wdc.udemy.com/user/andrei-neagoie/
+# Product instructed by Andrei Neagoie, https://wdc.udemy.com/user/andrei-neagoie/
